@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f7fc; color: #222; }
+
+header { background: #123b70; color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center; }
+
+nav a { color: white; text-decoration: none; margin: 8px; }
+
+section { padding: 35px 20px; text-align: center; }
+
+#about { background: #dceaff; padding: 70px 20px; }
+
+#projects { background: white; }
+
+footer { background: #123b70; color: white; text-align: center; padding: 15px; }
+
